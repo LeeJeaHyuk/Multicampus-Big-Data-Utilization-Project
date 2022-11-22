@@ -1,0 +1,10 @@
+date,model_name,scaler,best_score,criterion,max_depth,min_impurity_decrease,min_samples_split,min_weight_fraction_leaf,random_state,splitter
+2022-11-21 13:42,DecisionTreeClassifier,StandardScaler,0.711355015,gini,19,0.0,2,0.0,42,best
+2022-11-21 13:43,DecisionTreeClassifier,None,0.711355015,gini,19,0.0,2,0.0,42,best
+2022-11-21 14:53,DecisionTreeClassifier,StandardScaler,0.711377461,gini,19,0.0,2,0.0,42,best
+2022-11-21 15:00,DecisionTreeClassifier,MinMaxScaler,0.711444796,gini,19,0.0,2,0.0,42,best
+2022-11-21 15:04,DecisionTreeClassifier,RobustScaler,0.711242789,gini,19,0.0,2,0.0,42,best
+2022-11-21 15:11,DecisionTreeClassifier,None,0.719053627,gini,19,0.0,2,0.0,42,best
+2022-11-21 15:21,DecisionTreeClassifier,StandardScaler,0.719345406,gini,19,0.0,2,0.0,42,best
+2022-11-21 15:44,DecisionTreeClassifier,MinMaxScaler,0.719031188,gini,19,0.0,2,0.0,42,best
+2022-11-21 16:11:26,DecisionTreeClassifier,RobustScaler,0.7193229745049593,gini,19,0.0,2,0.0,42,best

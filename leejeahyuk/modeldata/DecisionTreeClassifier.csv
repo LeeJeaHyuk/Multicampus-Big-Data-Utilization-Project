@@ -1,0 +1,4 @@
+date,best_score,criterion,max_depth,min_impurity_decrease,min_samples_split,min_weight_fraction_leaf,random_state,splitter
+2022-11-21 10:05:05,0.7450003366776649,entropy,8,0.0,2,0.0,42,best
+2022-11-21 10:06:45,0.7102103113146141,gini,13,0.0,13,0.0,42,random
+2022-11-21 10:07:11,0.7102103113146141,gini,13,0.0,13,0.0,42,random
