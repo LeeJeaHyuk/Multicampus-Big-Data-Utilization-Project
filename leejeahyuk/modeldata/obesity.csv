@@ -8,3 +8,4 @@ date,model_name,scaler,best_score,criterion,max_depth,min_impurity_decrease,min_
 2022-11-21 15:21,DecisionTreeClassifier,StandardScaler,0.719345406,gini,19,0.0,2,0.0,42,best
 2022-11-21 15:44,DecisionTreeClassifier,MinMaxScaler,0.719031188,gini,19,0.0,2,0.0,42,best
 2022-11-21 16:11:26,DecisionTreeClassifier,RobustScaler,0.7193229745049593,gini,19,0.0,2,0.0,42,best
+2022-11-24 21:10:02,DecisionTreeClassifier,StandardScaler,0.7113550153749467,gini,19,0.0,2,0.0,42,best
