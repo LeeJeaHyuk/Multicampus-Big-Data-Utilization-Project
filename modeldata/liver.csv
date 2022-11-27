@@ -1,0 +1,3 @@
+date,model_name,scaler,best_score,criterion,max_features,random_state,min_impurity_decrease,min_samples_split,min_weight_fraction_leaf
+2022-11-27 15:47:34,RandomForestClassifierr,RoburtScaler,0.6926581823895136,gini,log2,42,,,
+2022-11-27 15:57:55,RandomForestClassifierr,RoburtScaler,0.6999528651269274,entropy,auto,42,0.0,17.0,0.0
