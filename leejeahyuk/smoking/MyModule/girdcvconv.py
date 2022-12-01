@@ -1,7 +1,7 @@
 import pandas as pd
 from datetime import datetime
 import os
-
+# os.makedirs(os.path.join(self.opt.ckpt_root, self.opt.data_name), exist_ok=True)
             
 def paramsTocsv(data_name, scaler, model_name, best_params, best_score):
     now = datetime.now()

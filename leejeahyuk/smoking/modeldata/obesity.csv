@@ -1,0 +1,17 @@
+date,model_name,scaler,best_score,criterion,max_features,min_impurity_decrease,min_samples_split,min_weight_fraction_leaf,C,penalty,random_state,solver,gamma,max_depth,min_child_weight,splitter
+2022-11-21 18:54:52,RandomForestClassifier,None,0.7720692209278837,entropy,auto,0.0,2.0,0.0,,,,,,,,
+2022-11-21 19:22:20,RandomForestClassifier,MinMaxScaler,0.772585460013916,entropy,sqrt,0.0,4.0,0.0,,,,,,,,
+2022-11-21 20:02:27,RandomForestClassifier,StandardScaler,0.772899692501066,entropy,auto,0.0,5.0,0.0,,,,,,,,
+2022-11-21 20:30:41,RandomForestClassifier,RobustScaler,0.7639964347254473,gini,auto,0.0,3.0,0.0,,,,,,,,
+2022-11-21 23:43:47,LogisticRegression,None,0.6971921082755369,,,,,,1.0,l2,42.0,newton-cg,,,,
+2022-11-21 23:49:59,LogisticRegression,MinMaxScaler,0.6973716696967657,,,,,,26.0,l1,42.0,liblinear,,,,
+2022-11-21 23:53:41,LogisticRegression,StandardScaler,0.6973941148744193,,,,,,51.0,l2,42.0,newton-cg,,,,
+2022-11-21 23:55:25,LogisticRegression,RobustScaler,0.6967545113656799,,,,,,51.0,l1,42.0,saga,,,,
+2022-11-22 02:31:55,XGBClassifier,None,0.7547190986016655,,,,,,,,42.0,,1.0,10.0,1.0,
+2022-11-22 02:56:55,XGBClassifier,MinMaxScaler,0.7546517630687046,,,,,,,,42.0,,1.0,10.0,1.0,
+2022-11-22 03:19:47,XGBClassifier,StandardScaler,0.7546742082463583,,,,,,,,42.0,,1.0,10.0,1.0,
+2022-11-22 03:45:23,XGBClassifier,RobustScaler,0.7479430477648297,,,,,,,,42.0,,1.0,10.0,1.0,
+2022-11-22 09:51:36,DecisionTreeClassifier,None,0.7113550153749467,gini,,0.0,2.0,0.0,,,42.0,,,19.0,,best
+2022-11-22 09:57:01,DecisionTreeClassifier,MinMaxScaler,0.7114447960855609,gini,,0.0,2.0,0.0,,,42.0,,,19.0,,best
+2022-11-22 10:03:00,DecisionTreeClassifier,StandardScaler,0.7113774605526003,gini,,0.0,2.0,0.0,,,42.0,,,19.0,,best
+2022-11-22 10:17:52,DecisionTreeClassifier,RobustScaler,0.7092970978189527,gini,,0.0,14.0,0.0,,,42.0,,,9.0,,random
