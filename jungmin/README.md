@@ -1,6 +1,6 @@
 ## Visual
 #### Homplanet 기준
-[1.Homplanet이 Europa이면서 동면하지 않은 사람의 transported]()
+[1.Homplanet이 Europa이면서 동면하지 않은 사람의 transported](https://github.com/LeeJeaHyuk/MulcamProject02/blob/develop/jungmin/Visual/Destination_visual_55%20Cancri%20e.ipynb)
 
 [2.Homplanet이 Mars이면서 동면하지 않은 사람의 transported]()
 
