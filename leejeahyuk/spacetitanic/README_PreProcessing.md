@@ -1,4 +1,4 @@
-1. [preprocessing04]()
+1. [preprocessing04](https://github.com/LeeJeaHyuk/MulcamProject02/blob/master/leejeahyuk/spacetitanic/preprocessing04.ipynb)
 
    1. 훈련에 사용할 범주형 데이터 모두 수치형으로 변환
       1. HomePlanet
@@ -18,19 +18,19 @@
          3. CryoSleep,VIP,Transported
             1. True / False 의 경우에 {'False':0,'True':1}로 매핑
 
-2. [preprocessing05_XGBClassifier_def]()
+2. [preprocessing05_XGBClassifier_def](https://github.com/LeeJeaHyuk/MulcamProject02/blob/master/leejeahyuk/spacetitanic/preprocessing05_XGBClassifier_def.ipynb)
 
    1. fillnullclassifier 함수
       1. column_name을 받아서 그 컬럼 이름의 null값을 XGBClassifier를 통해 예측한다
       2. 해당 컬럼의 null값이 채워진 dataframe을 리턴
 
-3. [preprocessing03_XGBRegressor_def02]()
+3. [preprocessing03_XGBRegressor_def02](https://github.com/LeeJeaHyuk/MulcamProject02/blob/master/leejeahyuk/spacetitanic/preprocessing03_XGBRegressor_def02.ipynb)
 
    1. fillnull 함수
       1. column_name을 받아서 그 컬럼 이름의 null값을 XGBRegressor를 통해 예측한다
       2. 해당 컬럼의 null값이 채워진 dataframe을 리턴
 
-4. [preprocessing06_age]()
+4. [preprocessing06_age](https://github.com/LeeJeaHyuk/MulcamProject02/blob/master/leejeahyuk/spacetitanic/preprocessing06_age.ipynb)
 
    1. Age의 정확도가 낮게 나와서 Age이상치를 확인하고 이상치를 제거한 값의 중앙값으로 null값을 채운다
 
