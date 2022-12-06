@@ -1,1 +1,1 @@
-[spacetitanic](https://github.com/LeeJeaHyuk/MulcamProject02/tree/master/leejeahyuk/spacetitanic)
+[spacetitanic](https://github.com/LeeJeaHyuk/MulcamProject02/blob/master/leejeahyuk/spacetitanic/README.md)
