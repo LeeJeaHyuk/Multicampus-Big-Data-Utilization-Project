@@ -1,0 +1,6 @@
+date,model_name,scaler,best_score,testset_score,colsample_bytree,gamma,learning_rate,max_depth,n_estimators,objective,random_state,subsample,alpha,lambda,eval_metric,iterations
+2022-12-09 12:25:36,XGBClassifier,MinMaxScaler,0.8057226052371618,0.8051461056997888,0.7999999999999999,0.5,0.06,5.0,130.0,binary:logistic,42.0,0.7,,,,
+2022-12-09 14:37:02,XGBClassifier,MinMaxScaler,0.804716135071813,0.7982396154639775,0.6,0.5,0.05,6.0,100.0,binary:logistic,42.0,0.7,0.5,1.0,,
+2022-12-09 15:39:05,CatBoostClassifier,None,0.8055925425707274,0.8582859785073054,,,,,,,,,,,Logloss,3000.0
+2022-12-09 15:50:19,CatBoostClassifier01,None,0.8052468785085735,0.8582859785073054,,,,,,,,,,,Accuracy,3000.0
+2022-12-09 15:51:30,CatBoostClassifier01,None,0.8052468785085735,0.8582859785073054,,,,,,,,,,,Accuracy,3000.0

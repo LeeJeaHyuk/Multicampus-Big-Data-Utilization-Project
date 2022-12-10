@@ -14,5 +14,9 @@ def selectparam(csv_name, index):
         dict.pop('scaler')
     if 'best_score' in dict:
         dict.pop('best_score')
-
+    if 'model_name' in dict:
+        dict.pop('model_name')
+    if 'testset_score' in dict:
+        dict.pop('testset_score')
+    
     return dict

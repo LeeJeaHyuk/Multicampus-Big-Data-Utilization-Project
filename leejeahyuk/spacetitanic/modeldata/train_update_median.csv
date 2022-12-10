@@ -1,0 +1,2 @@
+date,model_name,scaler,best_score,testset_score,colsample_bytree,gamma,learning_rate,max_depth,n_estimators,objective,random_state,subsample
+2022-12-08 14:16:09,XGBClassifier,MinMaxScaler,0.809860191317145,0.8105217056261937,0.6,1.5,0.060000000000000005,7,130,binary:logistic,42,0.7999999999999999
